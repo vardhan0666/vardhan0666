@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vardhan 👋
 
-<!--
-**vardhan0666/vardhan0666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creative Technologist | Friendly Neighbourhood Dev 🕷️
 
-Here are some ideas to get you started:
+I'm a lateral entry engineering student at KMCE, Ibrahimpatnam.
+I love coding, exploring new tech and AI tools, and learning new things fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing now
+- Learning React and Python
+- Building a JNTU SGPA/CGPA calculator
+- Preparing for my mid exams
+
+## Tools I use
+Python, React, Git, Docker, nmap
+
+## Beyond code
+- Sketching and art
+- Photography
+- Playing guitar and piano
+- Watching anime and series
+- Big fan of Tony Stark and Spider-Man
+
+## Contact
+- GitHub: vardhan0666
